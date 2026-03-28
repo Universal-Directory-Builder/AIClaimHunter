@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.local
+.env.development
+.env.production
+.claude/
+.next/
+dist/
+build/
+coverage/
+.DS_Store
+temp-fraud-app/
+_bmad-output/
